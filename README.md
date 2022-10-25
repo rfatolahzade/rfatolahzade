@@ -29,7 +29,14 @@ Welcome to rfatolahzade's documentation.
   - [NFS Subdir External Provisioner](https://github.com/rfatolahzade/nfs-subdir-external-provisioner)
   - [PWD Projects](https://github.com/search?q=user%3Arfatolahzade+PWD)
 
-
+<p align="center"> 
+      <td align="center"><img src="images/ansible.png"/></td>
+      <td align="center"><img src="images/kubernetes.png"/></td>
+      <td align="center"><img src="images/docker.png"/></td>
+      <td align="center"><img src="images/git.png"/></td>
+      <td align="center"><img src="images/prometheus.png"/></td>
+      <td align="center"><img src="images/python.png"/></td>
+      <td align="center"><img src="images/bash.png"/></td>
 
 
 
