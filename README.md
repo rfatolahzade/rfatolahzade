@@ -31,7 +31,7 @@ Welcome to rfatolahzade's documentation.
 
 <p align="center"> 
       <td align="center"><a href="https://github.com/rfatolahzade/ansible-workshop"><img src="images/ansible.png" width="75px;" height="75px/></td>
-      <td align="center"><img src="images/kubernetes.png" width="75px;" height="75px/></td>
+      <td align="center"><a href="https://github.com/rfatolahzade/k8s-workshop"><img src="images/kubernetes.png" width="75px;" height="75px/></td>
       <td align="center"><img src="images/docker.png" width="75px;" height="75px/></td>
       <td align="center"><a href="https://github.com/rfatolahzade/git-cheat-sheet"><img src="images/git.png" width="75px;" height="75px/></td>
       <td align="center"><img src="images/prometheus.png" width="75px;" height="75px/></td>
