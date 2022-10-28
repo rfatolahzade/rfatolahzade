@@ -35,9 +35,7 @@ Welcome to rfatolahzade's documentation.
       <td align="center"><img src="images/docker.png" width="75px;" height="75px/></td>
       <td align="center"><a href="https://github.com/rfatolahzade/git-cheat-sheet"><img src="images/git.png" width="75px;" height="75px/></td>
       <td align="center"><img src="images/prometheus.png" width="75px;" height="75px/></td>
-      <td align="center"><img src="images/python.png" width="75px;" height="75px/></td>
+      <td align="center"><a href="https://github.com/rfatolahzade/pythonCertChecker"><img src="images/python.png" width="75px;" height="75px/></td>
       <td align="center"><a href="https://github.com/rfatolahzade/Kubeadm"><img src="images/bash.png" width="75px;" height="75px/></td>
-
-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rfatolahzade&show_icons=true&theme=gotham" alt="rfatolahzade&" />
