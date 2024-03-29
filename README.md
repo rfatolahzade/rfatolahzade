@@ -1,8 +1,8 @@
 
 Welcome to rfatolahzade's documentation.
-- 🔭 I’m currently working on [ansible-workshop](https://github.com/rfatolahzade/ansible-workshop) , [k8s-workshop](https://github.com/rfatolahzade/k8s-workshop) [Ephemeral Container](https://github.com/rfatolahzade/Ephemeral-container)
+- 🔭 I’m currently working on [DNS-Server](https://github.com/rfatolahzade/DNS-server) [DHCP-Server](https://github.com/rfatolahzade/dhcp-server)
 - 🌱 I’m currently learning [Production-Grade Container Orchestration](https://kubernetes.io/docs/home/) [Ansible Documentation](https://docs.ansible.com/) 
-- 👯 I’m looking to collaborate on [Ephemeral Container](https://github.com/rfatolahzade/Ephemeral-container)
+- 👯 I’m looking to collaborate on [Ephemeral Container](https://github.com/rfatolahzade/Ephemeral-container) 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/rfatolahzade/) , [Email](mailto:r.finland88@gmail.com)
 - 💬 ask me about anything, I'm happy to help 😊
 - ⚡ Fun fact: Finnish Lapland has a reindeer population of about 200,000. That’s 20,000 more reindeer than people!!🦌
@@ -11,6 +11,8 @@ Welcome to rfatolahzade's documentation.
 ## Overview
   - [Minikube](https://github.com/rfatolahzade/Minikube) 
   - [Ephemeral-container](https://github.com/rfatolahzade/Ephemeral-container)
+  - [DHCP-Server](https://github.com/rfatolahzade/dhcp-server)
+  - [DNS-Server](https://github.com/rfatolahzade/dns-server)
   - [k8s-workshop](https://github.com/rfatolahzade/k8s-workshop)
   - [ansible-workshop](https://github.com/rfatolahzade/ansible-workshop)
   - [ParseChart](https://github.com/rfatolahzade/ParseChart)
